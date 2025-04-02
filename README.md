@@ -111,5 +111,5 @@ This ensures that the AI provides structured and relevant questions based on the
 ---
 
 ## Contact
-For support, reach out via email: [support@talentscout.com](mailto:bmanipreetham@gmail.com)
+For support, reach out via email: [support1mani@gmail.com](mailto:bmanipreetham@gmail.com)
 
